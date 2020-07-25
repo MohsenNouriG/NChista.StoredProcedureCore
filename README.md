@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="NChista.StoredProcedureCore/Images/icon.png" width="70">
+  <img src="NChista.StoredProcedureCore/icon.png" width="70">
 
   # Execute stored procedures using EF Core 
 </div>
