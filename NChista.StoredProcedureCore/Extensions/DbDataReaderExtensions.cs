@@ -12,7 +12,7 @@ namespace NChista.StoredProcedureCore.Extensions
     public static class DbDataReaderExtensions
     {
         /// <summary>
-        /// Getting result extensions methods for <see cref="DbDataReader"/> that will map the result 
+        /// Getting result extension method for <see cref="DbDataReader"/> that will map the result 
         /// to the list of type <typeparamref name="TDestination"/>.
         /// </summary>
         /// <typeparam name="TDestination">Must have a public parameterless constructor.</typeparam>
