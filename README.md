@@ -19,3 +19,25 @@ Task              ExecuteReaderAsync(Func<DbDataReader, Task> action); // An asy
 List<TDestination>        GetResult<TDestination>(this DbDataReader reader) where TDestination : new() // Mapping the result stes to the list of type TDestination.
 Task<List<TDestination>>  GetResultAsync<TDestination>(this DbDataReader reader) where TDestination : new() // An asynchronous version of GetResult.
 ```
+
+## Supported Types
+|.Net Type|DbType|
+|---|---|
+|byte|Byte|
+|byte[]|Binary|
+|sbyte|SByte|
+|short|Int16|
+|ushort|UInt16|
+|int|Int32|
+|uint|UInt32|
+|long|Int64|
+|ulong|UInt64|
+|float|Single|
+|double|Double|
+|decimal|Decimal|
+|bool|Boolean|
+|string|String|
+|char|StringFixedLength|
+|Guid|Guid|
+|DateTime|DateTime|
+|DateTimeOffset|DateTimeOffset|
