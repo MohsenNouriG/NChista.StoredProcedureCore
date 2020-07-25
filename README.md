@@ -1,10 +1,4 @@
-<div align="center">
-  
-  <img src="NChista.StoredProcedureCore/icon.png" width="70">
-
-  # Execute stored procedures using EF Core 
-</div>
-
+# Execute stored procedures using EF Core 
 This library simplifies executing stored procedures using EF Core.
 
 ## API
