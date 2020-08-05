@@ -7,7 +7,7 @@
     <Description>A .Net Core library that simplifies executing stored procedures using EF Core.</Description>
     <RepositoryUrl>https://github.com/MohsenNouriG/NChista.StoredProcedureCore.git</RepositoryUrl>
     <PackageProjectUrl>https://github.com/MohsenNouriG/NChista.StoredProcedureCore.git</PackageProjectUrl>
-    <PackageLicenseUrl>https://raw.githubusercontent.com/verdie-g/StoredProcedureEFCore/LICENSE</PackageLicenseUrl>
+    <PackageLicenseUrl>https://github.com/MohsenNouriG/NChista.StoredProcedureCore/LICENSE</PackageLicenseUrl>
     <PackageTags>C# Stored Procedure Dotnet Entity Framework Core DbDataReader</PackageTags>
     <Copyright>Copyright 2020</Copyright>
     <OutputType>Library</OutputType>
